@@ -1,0 +1,67 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/cursor.png",
+      "ascent": 8,
+      "height": 16,
+      "chars": ["\uE100"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/cursor.png",
+      "ascent": 18,
+      "height": 16,
+      "chars": ["\uE101"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/cursor.png",
+      "ascent": 28,
+      "height": 16,
+      "chars": ["\uE102"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/cursor.png",
+      "ascent": 38,
+      "height": 16,
+      "chars": ["\uE103"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/cursor.png",
+      "ascent": 48,
+      "height": 16,
+      "chars": ["\uE104"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/cursor.png",
+      "ascent": 58,
+      "height": 16,
+      "chars": ["\uE105"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/cursor.png",
+      "ascent": 68,
+      "height": 16,
+      "chars": ["\uE106"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/cursor.png",
+      "ascent": 78,
+      "height": 16,
+      "chars": ["\uE107"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/cursor.png",
+      "ascent": 88,
+      "height": 16,
+      "chars": ["\uE108"]
+    }
+  ]
+}
